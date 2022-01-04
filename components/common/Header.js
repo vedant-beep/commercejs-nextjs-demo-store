@@ -25,7 +25,7 @@ const transitionStyles = {
 const mobileMenuLinks = [
   {
     name: 'Home',
-    link: '/'
+    link: '/',
   },
   {
     name: 'Shop',
@@ -201,7 +201,7 @@ class Header extends Component {
             <Link href="/">
               <a>
                 <img
-                  src="/images/commerce.svg"
+                  src="/images/Genie-logo.png"
                   className="logo cursor-pointer"
                   alt="Logo"
                 />
